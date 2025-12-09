@@ -15,7 +15,6 @@ rust/breez_godot/target/
 breez_data/
 
 # IDE
-.vscode/
 .idea/
 .editorconfig
 
@@ -25,3 +24,5 @@ breez_data/
 # OS
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
